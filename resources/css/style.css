@@ -4,14 +4,14 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-.heading1{
+.heading--main{
     
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
 }
-.link1{
+.link--cta{
     color: aquamarine;
     font-size: 16px;
 }

@@ -15,7 +15,7 @@ body{
 .heading--h2{
     font-size: 42px;
     color: white;
-    font-weight: 300px;
+    font-weight: 300;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -27,4 +27,10 @@ body{
 .link--cta{
     color: aquamarine;
     font-size: 16px;
+}
+
+.footer--copyright{
+    color: grey;
+    font-size: 16px;
+    text-align: right;
 }
